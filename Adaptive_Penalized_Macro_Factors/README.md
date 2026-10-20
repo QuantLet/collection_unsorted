@@ -7,9 +7,9 @@
 ```
 Name of Quantlet: AdaptivePenalizedMacroFactor2
 
-Published in: Unpublished - Theoretical description
+Published in: Unpublished - Theoretical description of why we are going to use the adaptive methods
 
-Description: Builds a classification model to predict
+Description: Builds a classification model to predict by combining the shrinking methods with the adaptive methods. model can automatically detect the homogenous interval and the active macro-factor set
 
 Keywords: regression, forcast, simulation, financial, price, likelihood
 
